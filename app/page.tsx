@@ -82,7 +82,7 @@ export default function HomePage() {
       <section className="container mx-auto px-4 py-20">
         <div className="text-center mb-10">
           <h2
-            className={`text-3xl md:text-4xl font-bold mb-4 ${notoSerif.className}`}
+            className={`text-3xl md:text-4xl font-bold mb-4`}
           >
             Everything you need to manage your finances
           </h2>
